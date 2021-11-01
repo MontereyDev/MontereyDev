@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @MontereyDev
-- 📫 How to reach me aielloenio@icloud.com
+- 👋 Salut, je suis @MontereyDev
+- 📫 Vous pouvez m'envoyer un mail via cette adresse aielloenio@icloud.com
+- 🌍 Vous trouverez ma page ici
